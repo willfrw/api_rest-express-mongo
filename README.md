@@ -156,4 +156,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ---
 
 **Autor**  
-Desenvolvido para facilitar a gestão de livros e autores com suporte a MongoDB e consultas avançadas.
+William Wang - Projeto desenvolvido com tutoria da Alura.
